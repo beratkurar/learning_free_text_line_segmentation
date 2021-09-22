@@ -1,0 +1,9 @@
+actual: 15-30
+em: 13-23 
+mean: 21-42
+refined mean: 15-20
+
+half actual: 8-15
+half em: 7-12
+half mean: 11-21
+half refined mean: 8-10
