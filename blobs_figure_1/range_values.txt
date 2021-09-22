@@ -1,0 +1,9 @@
+actual: 15:30
+em: 13:23
+binary statistic: 51:79 parameters: (5, 50, 0.2)
+refined binary statistic: 16:22
+
+half actual: 8:15
+half em: 7:12
+half binary statistic: 26:40
+half refined binary statistic: 8:11
