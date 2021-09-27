@@ -1,0 +1,15 @@
+e-codices_csg-0863_004_max_gt.png	 line IU=0.281	 line F1=0.439
+e-codices_csg-0863_005_max_gt.png	 line IU=0.295	 line F1=0.456
+e-codices_csg-0863_006_max_gt.png	 line IU=0.394	 line F1=0.566
+e-codices_csg-0863_007_max_gt.png	 line IU=0.828	 line F1=0.906
+e-codices_csg-0863_008_max_gt.png	 line IU=0.857	 line F1=0.923
+e-codices_csg-0863_026_max_gt.png	 line IU=0.967	 line F1=0.983
+e-codices_csg-0863_105_max_gt.png	 line IU=0.935	 line F1=0.966
+e-codices_csg-0863_131_max_gt.png	 line IU=0.933	 line F1=0.965
+e-codices_csg-0863_160_max_gt.png	 line IU=0.967	 line F1=0.983
+e-codices_csg-0863_188_max_gt.png	 line IU=1.0	 line F1=1.0
+
+
+
+mean line iu = 0.7457
+mean line f1 = 0.8187
