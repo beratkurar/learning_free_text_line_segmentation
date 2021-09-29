@@ -1,0 +1,24 @@
+This code is for textline extraction using anisotropic gaussian method.
+It is adjusted to make experiments for a journal paper. It contains codes for cbad2017 and diva2017 datasets.
+
+1- Cbad dataset line extraction:
+Run python codes in icdar_2017/cbad_2017 folder
+Download ICDAR 2017 Competition on Baseline Detection simple documents dataset version 3(competition version):
+    https://zenodo.org/record/1208366/files/READ-ICDAR2017-cBAD-dataset-v3.zip?download=1
+Use the folder TestBaselineCompetitionSimpleDocuments
+Run cbad_extract_main_text.py to create the folder cropped_cbad_2017_simple_documents
+Copy cropped_cbad_2017_simple_documents folder into matlab_line_extraction
+Run BatchLinesScriptCbad.py
+Results are in the folder cropped_cbad_2017_simple_test\crop_cbad_2017_simple_test_result\
+
+2- Cbad dataset evaluation:
+Download evaluation tool:
+https://github.com/Transkribus/TranskribusBaseLineEvaluationScheme/blob/master/TranskribusBaseLineEvaluationScheme_v0.1.3.tar.gz
+Put jar file TranskribusBaseLineEvaluationScheme-0.1.3-jar-with-dependencies.jar into cbad_evaluation folder
+Run cbad_extract_gt_from_page.py to create baseline ground truth files in the folder gt_cbad_2017_simple_test
+Ground truth texts are in the folder cbad_2017/gt_cbad_2017_simple_test/baseline_gt_txts/
+Copy baseline_gt_txts folder into the cbad_evaluation/truths folder
+Copy cropped_cbad_2017_simple_test\crop_cbad_2017_simple_test_result\baselines into the cbad_evaluation/predicts folder
+Run cbad_evaluation/make_list_for_jar.py to create truths.lst and predicts.lst files in icdar_2017/cbad_2017/cbad_evaluation folder
+Run cbad_evaluation/cbad_batch.py
+

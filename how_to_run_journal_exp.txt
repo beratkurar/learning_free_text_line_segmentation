@@ -1,0 +1,6 @@
+1. Run extract_main_text_ground.py to handle cropped ground images.
+2. Run clean_diva.m to handle binary main text, cleaned from side notes.
+3. Run batch_line_diva_clean.m to extract text lines using cleaned main text areas.
+4. Copy extracted polygon_labels folder into python.
+5. Run convert_to_page_format.py to convert polygon_labels into page xml
+6. Run batch.py to caculate the performance.
