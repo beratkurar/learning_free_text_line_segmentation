@@ -1,0 +1,16 @@
+e-codices_csg-0018_048_max_gt.png	 pixel IU=0.983	 line IU=1.0	 line F1=1.0
+e-codices_csg-0018_049_max_gt.png	 pixel IU=0.9881	 line IU=1.0	 line F1=1.0
+e-codices_csg-0018_063_max_gt.png	 pixel IU=0.9343	 line IU=0.8387	 line F1=0.91228
+e-codices_csg-0018_076_max_gt.png	 pixel IU=0.9916	 line IU=1.0	 line F1=1.0
+e-codices_csg-0018_093_max_gt.png	 pixel IU=0.9912	 line IU=1.0	 line F1=1.0
+e-codices_csg-0018_095_max_gt.png	 pixel IU=0.9816	 line IU=1.0	 line F1=1.0
+e-codices_csg-0018_106_max_gt.png	 pixel IU=0.9853	 line IU=1.0	 line F1=1.0
+e-codices_csg-0018_107_max_gt.png	 pixel IU=0.9794	 line IU=1.0	 line F1=1.0
+e-codices_csg-0018_109_max_gt.png	 pixel IU=0.9888	 line IU=1.0	 line F1=1.0
+e-codices_csg-0018_148_max_gt.png	 pixel IU=0.9904	 line IU=1.0	 line F1=1.0
+
+
+
+mean pixel iu = 0.98137
+mean line iu = 0.98387
+mean line f1 = 0.991228

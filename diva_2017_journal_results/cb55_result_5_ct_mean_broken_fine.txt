@@ -1,0 +1,16 @@
+e-codices_fmb-cb-0055_0019r_max_gt.png	 pixel IU=0.9487	 line IU=1.0	 line F1=1.0
+e-codices_fmb-cb-0055_0025v_max_gt.png	 pixel IU=0.9586	 line IU=1.0	 line F1=1.0
+e-codices_fmb-cb-0055_0032r_max_gt.png	 pixel IU=0.955	 line IU=1.0	 line F1=1.0
+e-codices_fmb-cb-0055_0032v_max_gt.png	 pixel IU=0.9286	 line IU=1.0	 line F1=1.0
+e-codices_fmb-cb-0055_0089r_max_gt.png	 pixel IU=0.957	 line IU=1.0	 line F1=1.0
+e-codices_fmb-cb-0055_0109r_max_gt.png	 pixel IU=0.9467	 line IU=1.0	 line F1=1.0
+e-codices_fmb-cb-0055_0122v_max_gt.png	 pixel IU=0.9643	 line IU=1.0	 line F1=1.0
+e-codices_fmb-cb-0055_0132v_max_gt.png	 pixel IU=0.9601	 line IU=1.0	 line F1=1.0
+e-codices_fmb-cb-0055_0137v_max_gt.png	 pixel IU=0.9616	 line IU=1.0	 line F1=1.0
+e-codices_fmb-cb-0055_0145v_max_gt.png	 pixel IU=0.955	 line IU=1.0	 line F1=1.0
+
+
+
+mean pixel iu = 0.95356
+mean line iu = 1.0
+mean line f1 = 1.0
