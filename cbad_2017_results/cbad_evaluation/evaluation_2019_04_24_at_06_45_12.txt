@@ -1,0 +1,167 @@
+---TranskribusBaseLineEvaluationScheme--- 
+
+Evaluation performed on 2019.04.24 at 06:45:12 
+Evaluation performed for GT truths.lst
+Evaluation performed for HYPO predicts.lst
+Number of pages: 142
+
+Loading protocol: 
+   Everything loaded without errors.
+
+142 out of 142 GT-HYPO pairs loaded without errors and used for evaluation.
+
+Number of groundtruth lines: 3828
+Number of hypothesis lines: 4365
+
+Pagewise evaluation :
+#P value, #R value, #F_1 value, #TruthFileName, #HypoFileName
+    0.8302,     0.9060,     0.8665, truths/00000037-2.jpg.txt, predicts/00000037-2.txt
+    0.8804,     0.9286,     0.9038, truths/00000075.jpg.txt, predicts/00000075.txt
+    0.7971,     0.9073,     0.8487, truths/00000041-1.jpg.txt, predicts/00000041-1.txt
+    0.9047,     0.8872,     0.8959, truths/00000001-14.jpg.txt, predicts/00000001-14.txt
+    0.8840,     0.9701,     0.9250, truths/00000001-8.jpg.txt, predicts/00000001-8.txt
+    0.7557,     0.9678,     0.8487, truths/00000183.jpg.txt, predicts/00000183.txt
+    0.8793,     0.9770,     0.9256, truths/00000020.jpg.txt, predicts/00000020.txt
+    0.8080,     0.8888,     0.8465, truths/00000171-1.jpg.txt, predicts/00000171-1.txt
+    0.9493,     0.9965,     0.9723, truths/00000160-1.jpg.txt, predicts/00000160-1.txt
+    0.8561,     0.9223,     0.8880, truths/00000037-3.jpg.txt, predicts/00000037-3.txt
+    0.3873,     0.9452,     0.5495, truths/00000135.jpg.txt, predicts/00000135.txt
+    0.8803,     0.9513,     0.9144, truths/00000002-5.jpg.txt, predicts/00000002-5.txt
+    0.9384,     0.9314,     0.9349, truths/00000037-1.jpg.txt, predicts/00000037-1.txt
+    0.7523,     0.9248,     0.8296, truths/00000040-3.jpg.txt, predicts/00000040-3.txt
+    0.7652,     0.6486,     0.7021, truths/00000141.jpg.txt, predicts/00000141.txt
+    0.8481,     0.8881,     0.8677, truths/00000001-13.jpg.txt, predicts/00000001-13.txt
+    0.9600,     0.8851,     0.9210, truths/00000076.jpg.txt, predicts/00000076.txt
+    0.7556,     0.9361,     0.8362, truths/00000117.jpg.txt, predicts/00000117.txt
+    0.8209,     0.9270,     0.8707, truths/00000144.jpg.txt, predicts/00000144.txt
+    0.6053,     0.8531,     0.7081, truths/00000017-5.jpg.txt, predicts/00000017-5.txt
+    0.4269,     0.9268,     0.5845, truths/00000174.jpg.txt, predicts/00000174.txt
+    0.8321,     0.9213,     0.8744, truths/00000002-8.jpg.txt, predicts/00000002-8.txt
+    0.8407,     0.8599,     0.8502, truths/00000034-1.jpg.txt, predicts/00000034-1.txt
+    0.8804,     0.9951,     0.9343, truths/00000121.jpg.txt, predicts/00000121.txt
+    0.4632,     0.9076,     0.6134, truths/00000160.jpg.txt, predicts/00000160.txt
+    0.8062,     0.9936,     0.8901, truths/00000083.jpg.txt, predicts/00000083.txt
+    0.6601,     0.8845,     0.7560, truths/00000037-4.jpg.txt, predicts/00000037-4.txt
+    0.9604,     0.9959,     0.9778, truths/00000118-1.jpg.txt, predicts/00000118-1.txt
+    0.5225,     0.8992,     0.6609, truths/00000028.jpg.txt, predicts/00000028.txt
+    0.2885,     0.9226,     0.4395, truths/00000023.jpg.txt, predicts/00000023.txt
+    0.9223,     0.8901,     0.9059, truths/00000103.jpg.txt, predicts/00000103.txt
+    0.8170,     0.9979,     0.8985, truths/00000125.jpg.txt, predicts/00000125.txt
+    0.9043,     0.9076,     0.9059, truths/00000092.jpg.txt, predicts/00000092.txt
+    0.7728,     0.8961,     0.8299, truths/00000001-5.jpg.txt, predicts/00000001-5.txt
+    0.8871,     0.8462,     0.8662, truths/00000001-3.jpg.txt, predicts/00000001-3.txt
+    0.9451,     0.6620,     0.7786, truths/00000027-3.jpg.txt, predicts/00000027-3.txt
+    0.8452,     0.9607,     0.8993, truths/00000195.jpg.txt, predicts/00000195.txt
+    0.7241,     0.9556,     0.8239, truths/00000040-2.jpg.txt, predicts/00000040-2.txt
+    0.7762,     0.9281,     0.8454, truths/00000084-2.jpg.txt, predicts/00000084-2.txt
+    0.9238,     0.9208,     0.9223, truths/00000008-2.jpg.txt, predicts/00000008-2.txt
+    0.8975,     0.9642,     0.9296, truths/00000185.jpg.txt, predicts/00000185.txt
+    0.8100,     0.9248,     0.8636, truths/00000003-5.jpg.txt, predicts/00000003-5.txt
+    0.7585,     0.9345,     0.8374, truths/00000019.jpg.txt, predicts/00000019.txt
+    1.0000,     0.9995,     0.9997, truths/00000042.jpg.txt, predicts/00000042.txt
+    0.8266,     0.8941,     0.8590, truths/00000018-1.jpg.txt, predicts/00000018-1.txt
+    0.9977,     0.9999,     0.9988, truths/00000154.jpg.txt, predicts/00000154.txt
+    0.8721,     0.9984,     0.9310, truths/00000037.jpg.txt, predicts/00000037.txt
+    0.8347,     0.8831,     0.8582, truths/00000014-3.jpg.txt, predicts/00000014-3.txt
+    0.5944,     0.9941,     0.7440, truths/00000111.jpg.txt, predicts/00000111.txt
+    0.9350,     0.9571,     0.9459, truths/00000003-3.jpg.txt, predicts/00000003-3.txt
+    0.9963,     0.9760,     0.9861, truths/00000012.jpg.txt, predicts/00000012.txt
+    0.7814,     0.9336,     0.8508, truths/00000015-2.jpg.txt, predicts/00000015-2.txt
+    0.8058,     0.9945,     0.8903, truths/00000098.jpg.txt, predicts/00000098.txt
+    0.8358,     0.9365,     0.8833, truths/00000049-2.jpg.txt, predicts/00000049-2.txt
+    0.9728,     0.8888,     0.9289, truths/00000124.jpg.txt, predicts/00000124.txt
+    0.9586,     0.9308,     0.9445, truths/00000004-2.jpg.txt, predicts/00000004-2.txt
+    0.7906,     0.8998,     0.8417, truths/00000034.jpg.txt, predicts/00000034.txt
+    0.9209,     0.8562,     0.8874, truths/00000002-6.jpg.txt, predicts/00000002-6.txt
+    0.8981,     0.9682,     0.9318, truths/00000026.jpg.txt, predicts/00000026.txt
+    0.8412,     0.9776,     0.9043, truths/00000093.jpg.txt, predicts/00000093.txt
+    0.8989,     0.9449,     0.9213, truths/00000065-1.jpg.txt, predicts/00000065-1.txt
+    0.8757,     0.8402,     0.8576, truths/00000017-3.jpg.txt, predicts/00000017-3.txt
+    0.8726,     0.9318,     0.9012, truths/00000017-4.jpg.txt, predicts/00000017-4.txt
+    0.7180,     0.8613,     0.7831, truths/00000008-1.jpg.txt, predicts/00000008-1.txt
+    0.8192,     0.8730,     0.8452, truths/00000006-1.jpg.txt, predicts/00000006-1.txt
+    0.8906,     0.9970,     0.9408, truths/00000056.jpg.txt, predicts/00000056.txt
+    0.8764,     0.9454,     0.9096, truths/00000003-2.jpg.txt, predicts/00000003-2.txt
+    0.8413,     0.9062,     0.8726, truths/00000015.jpg.txt, predicts/00000015.txt
+    0.8348,     0.9466,     0.8872, truths/00000002-2.jpg.txt, predicts/00000002-2.txt
+    0.2849,     0.9248,     0.4356, truths/00000065.jpg.txt, predicts/00000065.txt
+    0.7304,     0.8778,     0.7973, truths/00000031.jpg.txt, predicts/00000031.txt
+    0.9570,     0.9151,     0.9356, truths/00000014.jpg.txt, predicts/00000014.txt
+    0.9528,     0.9844,     0.9683, truths/00000188.jpg.txt, predicts/00000188.txt
+    0.9594,     0.9973,     0.9780, truths/00000139.jpg.txt, predicts/00000139.txt
+    0.3088,     0.8497,     0.4530, truths/00000013.jpg.txt, predicts/00000013.txt
+    0.8687,     0.9534,     0.9091, truths/00000025-1.jpg.txt, predicts/00000025-1.txt
+    0.6277,     0.9970,     0.7704, truths/00000177.jpg.txt, predicts/00000177.txt
+    1.0000,     0.9994,     0.9997, truths/00000070.jpg.txt, predicts/00000070.txt
+    0.9586,     0.9747,     0.9666, truths/00000039.jpg.txt, predicts/00000039.txt
+    0.7662,     0.9377,     0.8433, truths/00000005-3.jpg.txt, predicts/00000005-3.txt
+    0.7091,     0.7420,     0.7252, truths/00000073.jpg.txt, predicts/00000073.txt
+    0.6855,     0.8650,     0.7649, truths/00000010-2.jpg.txt, predicts/00000010-2.txt
+    0.9496,     0.9926,     0.9706, truths/00000191.jpg.txt, predicts/00000191.txt
+    0.8454,     0.9763,     0.9061, truths/00000041-3.jpg.txt, predicts/00000041-3.txt
+    0.8613,     0.9935,     0.9227, truths/00000069.jpg.txt, predicts/00000069.txt
+    0.7997,     0.8850,     0.8402, truths/00000040-4.jpg.txt, predicts/00000040-4.txt
+    0.7104,     0.8569,     0.7768, truths/00000106-1.jpg.txt, predicts/00000106-1.txt
+    0.8419,     0.9206,     0.8795, truths/00000050.jpg.txt, predicts/00000050.txt
+    0.9991,     0.9966,     0.9979, truths/00000140.jpg.txt, predicts/00000140.txt
+    0.9280,     0.9613,     0.9443, truths/00000090.jpg.txt, predicts/00000090.txt
+    0.8606,     0.9150,     0.8870, truths/00000018.jpg.txt, predicts/00000018.txt
+    0.8558,     0.9496,     0.9002, truths/00000016-2.jpg.txt, predicts/00000016-2.txt
+    0.8372,     0.8180,     0.8275, truths/00000001-4.jpg.txt, predicts/00000001-4.txt
+    0.9876,     0.9521,     0.9695, truths/00000130.jpg.txt, predicts/00000130.txt
+    0.6885,     0.7890,     0.7353, truths/00000019-2.jpg.txt, predicts/00000019-2.txt
+    0.7228,     0.9946,     0.8372, truths/00000149.jpg.txt, predicts/00000149.txt
+    0.9619,     0.9524,     0.9571, truths/00000171.jpg.txt, predicts/00000171.txt
+    0.8474,     0.9927,     0.9143, truths/00000163.jpg.txt, predicts/00000163.txt
+    0.9341,     0.9835,     0.9581, truths/00000118.jpg.txt, predicts/00000118.txt
+    0.9174,     0.5815,     0.7118, truths/00000012-3.jpg.txt, predicts/00000012-3.txt
+    0.1258,     0.6531,     0.2110, truths/00000084.jpg.txt, predicts/00000084.txt
+    0.6954,     0.7301,     0.7123, truths/00000081.jpg.txt, predicts/00000081.txt
+    0.7064,     0.9629,     0.8150, truths/00000180.jpg.txt, predicts/00000180.txt
+    0.8465,     0.9321,     0.8872, truths/00000062.jpg.txt, predicts/00000062.txt
+    0.5820,     0.8530,     0.6919, truths/00000011-1.jpg.txt, predicts/00000011-1.txt
+    0.9330,     0.8116,     0.8681, truths/00000001.jpg.txt, predicts/00000001.txt
+    0.8858,     0.8939,     0.8898, truths/00000028-3.jpg.txt, predicts/00000028-3.txt
+    0.9252,     0.9566,     0.9406, truths/00000106.jpg.txt, predicts/00000106.txt
+    0.3843,     0.8028,     0.5198, truths/00000041.jpg.txt, predicts/00000041.txt
+    0.8969,     0.6601,     0.7605, truths/00000029-1.jpg.txt, predicts/00000029-1.txt
+    0.7934,     0.8661,     0.8282, truths/00000053.jpg.txt, predicts/00000053.txt
+    0.7933,     0.9061,     0.8460, truths/00000051.jpg.txt, predicts/00000051.txt
+    0.8512,     0.7707,     0.8089, truths/00000053-1.jpg.txt, predicts/00000053-1.txt
+    0.9678,     0.9795,     0.9736, truths/00000012-2.jpg.txt, predicts/00000012-2.txt
+    0.9352,     0.9833,     0.9586, truths/00000107.jpg.txt, predicts/00000107.txt
+    0.9861,     0.9902,     0.9881, truths/00000153.jpg.txt, predicts/00000153.txt
+    0.7792,     0.9210,     0.8442, truths/00000161.jpg.txt, predicts/00000161.txt
+    0.8409,     0.7483,     0.7919, truths/00000016-1.jpg.txt, predicts/00000016-1.txt
+    0.6124,     0.6897,     0.6487, truths/00000084-1.jpg.txt, predicts/00000084-1.txt
+    0.8779,     0.9412,     0.9085, truths/00000001-12.jpg.txt, predicts/00000001-12.txt
+    0.9500,     0.9603,     0.9551, truths/00000005-4.jpg.txt, predicts/00000005-4.txt
+    0.8128,     0.9104,     0.8588, truths/00000102.jpg.txt, predicts/00000102.txt
+    0.6504,     0.7137,     0.6806, truths/00000014-2.jpg.txt, predicts/00000014-2.txt
+    0.9638,     0.9997,     0.9815, truths/00000020-1.jpg.txt, predicts/00000020-1.txt
+    0.7140,     0.9407,     0.8118, truths/00000009-1.jpg.txt, predicts/00000009-1.txt
+    0.8309,     0.8556,     0.8431, truths/00000002-10.jpg.txt, predicts/00000002-10.txt
+    0.9425,     0.9608,     0.9515, truths/00000005-1.jpg.txt, predicts/00000005-1.txt
+    0.9372,     0.9149,     0.9259, truths/00000002-1.jpg.txt, predicts/00000002-1.txt
+    0.9684,     0.7714,     0.8588, truths/00000007.jpg.txt, predicts/00000007.txt
+    0.9398,     0.8507,     0.8931, truths/00000003.jpg.txt, predicts/00000003.txt
+    0.6284,     0.9848,     0.7673, truths/00000009.jpg.txt, predicts/00000009.txt
+    0.8565,     0.9693,     0.9094, truths/00000027-1.jpg.txt, predicts/00000027-1.txt
+    0.8172,     0.8886,     0.8514, truths/00000029.jpg.txt, predicts/00000029.txt
+    0.8040,     0.9176,     0.8570, truths/00000001-10.jpg.txt, predicts/00000001-10.txt
+    0.9916,     0.9946,     0.9931, truths/00000104-1.jpg.txt, predicts/00000104-1.txt
+    0.8937,     0.8760,     0.8848, truths/00000013-2.jpg.txt, predicts/00000013-2.txt
+    0.8959,     0.9322,     0.9137, truths/00000137.jpg.txt, predicts/00000137.txt
+    0.9330,     0.9612,     0.9469, truths/00000060.jpg.txt, predicts/00000060.txt
+    0.9837,     0.9176,     0.9495, truths/00000132.jpg.txt, predicts/00000132.txt
+    0.8954,     0.9510,     0.9224, truths/00000127.jpg.txt, predicts/00000127.txt
+    0.9759,     0.8873,     0.9295, truths/00000001-16.jpg.txt, predicts/00000001-16.txt
+    0.9999,     0.9992,     0.9995, truths/00000168.jpg.txt, predicts/00000168.txt
+
+
+#######Final Evaluation#######
+
+Avg (over pages) P value: 0.8209
+Avg (over pages) R value: 0.9113
+Resulting F_1 value: 0.8638
+

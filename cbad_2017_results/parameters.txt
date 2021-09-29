@@ -1,0 +1,7 @@
+We used the following options with cbad_2017 dataset in this experiment:
+
+options = struct('EuclideanDist',true, 'mergeLines', true, 'EMEstimation',false,... 
+    'cacheIntermediateResults', true, 'orgPath',orgsPath, 'dstPath', dstPath, 'thsLow',15,'thsHigh',Inf,'Margins', 0);
+
+
+bin=binarization(part_image,25,0)
